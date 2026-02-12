@@ -9,3 +9,6 @@ wheels/
 # Virtual environments
 .venv
 .idea/
+scripts/第四五节_分类代码/
+scripts/第六七八节代码/
+.venv/
